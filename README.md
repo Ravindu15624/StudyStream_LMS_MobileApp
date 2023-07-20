@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<video width="320" height="240" autoplay>
+<video width="260" height="510" autoplay>
   <source src="Video/StudyStreamNew.mp4" type="video/mp4">
 
 <br>
