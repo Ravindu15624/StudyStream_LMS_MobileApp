@@ -3,6 +3,8 @@
 <p align="center">
 <b>Sample Preview Of the Mobile Application
 
+<img src="Images/1.png" width="250" height="500">
+
 <br>
 <br>
 
