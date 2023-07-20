@@ -1,15 +1,6 @@
 # StudyStream LMS MobileApp
 
 <p align="center">
-<b>Sample Preview Of the Mobile Application
-
-<br>
-<br>
-
-<video src="Video/StudyStreamNew.mp4" width="260" height="510"/>
-
-<br>
-<br>
 
 <b>Sample Screenshots Of the Mobile Application
 
