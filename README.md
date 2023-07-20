@@ -2,7 +2,7 @@
 
 <p align="center">
   
-<img src="Images/1.png" width="fix" height="fix">
+<img src="Images/1.png" width="200" height="500" align="center">
 <img src="Images/2.png" width="fix" height="fix">
 <img src="Images/3.png" width="fix" height="fix">
 <img src="Images/4.png" width="fix" height="fix">
