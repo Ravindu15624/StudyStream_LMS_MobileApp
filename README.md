@@ -6,7 +6,8 @@
 <br>
 <br>
 
-<img src="Images/1.png" width="250" height="500">
+<video width="320" height="240" autoplay>
+  <source src="Video/StudyStreamNew.mp4" type="video/mp4">
 
 <br>
 <br>
