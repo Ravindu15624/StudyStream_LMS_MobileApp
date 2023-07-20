@@ -8,6 +8,9 @@
 
 <img src="Images/1.png" width="250" height="500">
 
+<br>
+<br>
+
 <b>Sample Screenshots Of the Mobile Application
 
 <br>
