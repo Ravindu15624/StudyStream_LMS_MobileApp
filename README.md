@@ -1,7 +1,7 @@
 # StudyStream LMS MobileApp
 
 <p align="center">
-Sample Preview Of the Mobile Application
+<b>Sample Preview Of the Mobile Application</b>
 
 <br>
 <br>
