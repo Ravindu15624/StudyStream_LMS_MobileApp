@@ -2,6 +2,9 @@
 
 <p align="center">
 Sample Preview Of the Mobile Application
+
+<br>
+<br>
   
 <img src="Images/1.png" width="250" height="500">
 <img src="Images/2.png" width="250" height="500">
