@@ -1,8 +1,7 @@
 # StudyStream LMS MobileApp
 
 <p align="center">
-
-<p>Sample Preview Of the Mobile Application
+Sample Preview Of the Mobile Application
   
 <img src="Images/1.png" width="250" height="500">
 <img src="Images/2.png" width="250" height="500">
@@ -16,5 +15,5 @@
 <img src="Images/10.png" width="250" height="500">
 <img src="Images/11.png" width="250" height="500">
 
-</P>
+
 </p>
