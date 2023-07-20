@@ -5,6 +5,11 @@
 
 <br>
 <br>
+
+<b>Sample Screenshots Of the Mobile Application</b>
+
+<br>
+<br>
   
 <img src="Images/1.png" width="250" height="500">
 <img src="Images/2.png" width="250" height="500">
